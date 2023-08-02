@@ -1,5 +1,0 @@
-server/config/.env
-server/todo.js
-/server/node_modules
-/client/node_modules
-/client/.env

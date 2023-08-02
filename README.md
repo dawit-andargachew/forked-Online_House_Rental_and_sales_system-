@@ -116,8 +116,3 @@
 
 
 
-
-
-<img src="" alt="Image description" width="500" height="250">
-<img src="" alt="Image description" width="500" height="250">
-<img src="" alt="Image description" width="500" height="250">

@@ -1,1 +1,0 @@
-# Online_House_Rental_and_sales_system

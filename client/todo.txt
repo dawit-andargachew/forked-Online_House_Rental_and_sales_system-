@@ -1,3 +1,0 @@
-1. A house should have a current status(rented, onListing, ...) prop.
-2. Responsiveness for later
-3. Add filter option to filter rent and sale homes for Admin
